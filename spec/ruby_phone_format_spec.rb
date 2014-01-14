@@ -1,3 +1,5 @@
+require 'spec_helper'
+
 # Question 1
 describe "#normalize_phone_number" do
   it "should format a number without spaces or special characters" do 
