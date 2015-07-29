@@ -1,8 +1,4 @@
----
-  tags: todo, string manipulation, methods
-  languages: ruby
-  resources: 1
----
+
 
 # Phone Number Formatter
 
