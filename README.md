@@ -16,3 +16,5 @@ string argument and returns a string in the format
 
 ## Resources
 * [Rubular](http://rubular.com/) This has a glossary of regex at the bottom and a repl to test your expressions at the top.
+
+<a href='https://learn.co/lessons/phone-number-formatter' data-visibility='hidden'>View this lesson on Learn.co</a>
