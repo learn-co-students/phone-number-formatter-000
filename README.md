@@ -17,4 +17,4 @@ string argument and returns a string in the format
 ## Resources
 * [Rubular](http://rubular.com/) This has a glossary of regex at the bottom and a repl to test your expressions at the top.
 
-<a href='https://learn.co/lessons/phone-number-formatter' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/phone-number-formatter' title='Phone Number Formatter'>Phone Number Formatter</a> on Learn.co and start learning to code for free.</p>
